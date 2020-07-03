@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="serialport_service_serialport:war">
+    <output-path>$PROJECT_DIR$/serialport_service_serialport/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>serialport_service_serialport</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="serialport_service_serialport-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="serialport_service_serialport:war exploded" />
+    </root>
+  </artifact>
+</component>

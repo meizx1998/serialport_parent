@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/serialport_common/serialport_common.iml" filepath="$PROJECT_DIR$/serialport_common/serialport_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_common_service/serialport_common_service.iml" filepath="$PROJECT_DIR$/serialport_common_service/serialport_common_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_common_web/serialport_common_web.iml" filepath="$PROJECT_DIR$/serialport_common_web/serialport_common_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_interface/serialport_interface.iml" filepath="$PROJECT_DIR$/serialport_interface/serialport_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_parent.iml" filepath="$PROJECT_DIR$/serialport_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_pojo/serialport_pojo.iml" filepath="$PROJECT_DIR$/serialport_pojo/serialport_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_service_serialport/serialport_service_serialport.iml" filepath="$PROJECT_DIR$/serialport_service_serialport/serialport_service_serialport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serialport_web_manager/serialport_web_manager.iml" filepath="$PROJECT_DIR$/serialport_web_manager/serialport_web_manager.iml" />
+    </modules>
+  </component>
+</project>

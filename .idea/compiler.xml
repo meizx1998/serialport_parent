@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="serialport_pojo" />
+        <module name="serialport_common" />
+        <module name="serialport_common_service" />
+        <module name="serialport_web_manager" />
+        <module name="serialport_common_web" />
+        <module name="serialport_interface" />
+        <module name="serialport_service_serialport" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="serialport_common" target="1.8" />
+      <module name="serialport_common_service" target="1.8" />
+      <module name="serialport_common_web" target="1.8" />
+      <module name="serialport_interface" target="1.8" />
+      <module name="serialport_parent" target="1.8" />
+      <module name="serialport_pojo" target="1.8" />
+      <module name="serialport_service_serialport" target="1.8" />
+      <module name="serialport_web_manager" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

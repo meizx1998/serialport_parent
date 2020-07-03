@@ -1,0 +1,8 @@
+# Project exclude paths
+/serialport_common/target/
+/serialport_common_service/target/
+/serialport_common_web/target/
+/serialport_interface/target/
+/serialport_pojo/target/
+/serialport_service_serialport/target/
+/serialport_web_manager/target/
